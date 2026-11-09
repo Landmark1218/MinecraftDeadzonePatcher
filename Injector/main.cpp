@@ -126,7 +126,7 @@ int wmain(int argc, wchar_t** argv)
 
         if (IsLoaded(pid, dllPath)) { wprintf(L"すでに注入済みです。\n"); rc = 0; }
         else rc = Inject(pid, dllPath);
-        if (rc == 0) wprintf(L"設定ファイル: DLL と同じフォルダの MinecraftDeadzone.ini（保存すると即反映、F8 で有効/無効）\n");
+        if (rc == 0) wprintf(L"設定ファイル: MinecraftDeadzone.ini\n");
     }
 
     if (pause)
