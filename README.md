@@ -1,0 +1,2 @@
+# MinecraftDeadzonePatcher
+マイクラ統合版のデッドゾーンが高すぎてウザいから下げるツール
