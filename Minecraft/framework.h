@@ -1,0 +1,11 @@
+﻿#pragma once
+#define WIN32_LEAN_AND_MEAN
+#define NOMINMAX
+#include <windows.h>
+#include <GameInput.h>
+#include <psapi.h>
+#include <stdio.h>
+#include <math.h>
+#include <string>
+#include <mutex>
+#include "../external/minhook/include/MinHook.h"

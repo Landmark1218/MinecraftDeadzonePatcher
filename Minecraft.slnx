@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Injector/Injector.vcxproj" Id="6b1e3f4a-2c7d-4e8b-9a51-3f0d2c8e7b14" />
+  <Project Path="Minecraft/Minecraft.vcxproj" Id="0195a2ba-9fbd-4337-93e7-0d16b8aa9eec" />
+</Solution>
